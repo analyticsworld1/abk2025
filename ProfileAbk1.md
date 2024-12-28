@@ -53,9 +53,9 @@ Welcome to my GitHub profile! I am an experienced AI/ML Architect with over a de
 ## 📫 **Let’s Collaborate!**
 
 Feel free to reach out to discuss potential projects or explore synergies:
-- **Email**: [your_email@example.com](mailto:ashokbabu.hcl@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/ashokkumili)
-- **Website**: [yourwebsite.com](https://tiksys.ai)
+- **Email**: [AI ML Architect](mailto:ashokbabu.hcl@gmail.com)
+- **LinkedIn**: [Problem Solver](https://linkedin.com/in/ashokkumili)
+- **Website**: [AI ML Solutions](https://tiksys.ai)
 
 ---
 
