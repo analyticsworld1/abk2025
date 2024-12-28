@@ -1,5 +1,3 @@
-# abk2025
-ABK-Profile
 <h1 align="center">Hi 👋, I'm AshokBabu</h1>
 <h3 align="center">A focused passionate problem solver 22 years of technology (At GE, Toyota, Coke, Pepsi, AnZ, AirBus, AstraZeneca, etc)</h3>
 
