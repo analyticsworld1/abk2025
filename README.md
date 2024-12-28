@@ -5,26 +5,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=analyticsworld1" alt="analyticsworld1" /></a> </p>
 
-- 🔭 I’m a **AI ML Lead Solutions Architect** currently working on multi- AI-Agent Systems:
-    Healthcare applications for patient monitoring and personalized care
-    Autonomous vehicles communicate to optimize traffic flow
-    Smart power grids managing electricity distribution
-    Disaster rescue using autonomous robot agents
-    Intelligent control of machines and logistics in manufacturing systems
-    
-- 🌱 I’m currently learning **Automation**
-
-- 👯 I’m looking to collaborate on **Fintech, E-commerce, Health Science**
-
-- 🤝 I’m looking for help with **Simplifying the AI project developments**
+- 🔭 A seasoned **AI ML Lead Solutions Architect** currently working on multi- AI-Agent Systems:
+    1) Healthcare applications for patient monitoring and personalized care.
+    2) Autonomous vehicles communicate to optimize traffic flow.
+    3) Smart power grids managing electricity distribution.
+    4) Disaster rescue using autonomous robot agents.
+    5) Intelligent control of machines and logistics in manufacturing systems.
 
 - 📝 I regularly write articles on [https://www.tiksys.ai/post/7-ai-powered-financial-chatbot-revolutionize-the-fintech-domain](https://www.tiksys.ai/post/7-ai-powered-financial-chatbot-revolutionize-the-fintech-domain)
 
-- 💬 Ask me about **AI, ML, DE**
+### 🌟 **Portfolio Highlights**
 
-- 📫 How to reach me **ashokbabu.architect@gmail.com**
+#### **Finance**
+- **Project**: Advanced customer segmentation for wealth management using AI/ML.
+- **Impact**: Increased client engagement by 30% and optimized marketing strategies.
 
-- ⚡ Fun fact **I enjoy hip hop dance**
+#### **Healthcare**
+- **Project**: AI-driven predictive analytics for patient outcome improvement.
+- **Impact**: Reduced hospital readmission rates by 15%.
+
+#### **E-commerce**
+- **Project**: Personalized recommendation engine for online retail.
+- **Impact**: Boosted sales by 25% with enhanced customer satisfaction.
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
