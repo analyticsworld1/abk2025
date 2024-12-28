@@ -5,8 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=analyticsworld1" alt="analyticsworld1" /></a> </p>
 
-- 🔭 I’m currently working on **AI ML Business Solutions**
-
+- 🔭 I’m a **AI ML Lead Solutions Architect** currently working on multi- AI-Agent Systems:
+    Healthcare applications for patient monitoring and personalized care
+    Autonomous vehicles communicate to optimize traffic flow
+    Smart power grids managing electricity distribution
+    Disaster rescue using autonomous robot agents
+    Intelligent control of machines and logistics in manufacturing systems
+    
 - 🌱 I’m currently learning **Automation**
 
 - 👯 I’m looking to collaborate on **Fintech, E-commerce, Health Science**
@@ -19,7 +24,7 @@
 
 - 📫 How to reach me **ashokbabu.architect@gmail.com**
 
-- ⚡ Fun fact **I dance hip hop**
+- ⚡ Fun fact **I enjoy hip hop dance**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
